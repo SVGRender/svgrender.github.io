@@ -1,32 +1,74 @@
-# GithubPages template
+# Image full cover template for Bootstrap 5
 
-This web page template is specially made by me for academic papers.
 
-**You are welcome to copy this website's code for your personal use, please attribute the source with a link back to this page and remove the analytics code in the header.**
+These templates were built with a **free Material Design UI Kit for the latest Bootstrap 5**.
 
-## Deploy
+<img height="25" src="https://mdbootstrap.com/img/Marketing/general/logo/medium/mdb-r.png">  [![GitHub Stars](https://img.shields.io/github/stars/mdbootstrap/mdb-ui-kit?label=Star%20now&style=social)](https://github.com/mdbootstrap/mdb-ui-kit/)
 
-Click the red box in the picture:
+<a href="https://npmcharts.com/compare/mdbootstrap?minimal=true"> <img src="https://img.shields.io/npm/dm/mdbootstrap.svg?label=MDB%20Downloads" alt="Downloads"></a>
+<a href="https://github.com/mdbootstrap/bootstrap-material-design/blob/master/License.pdf"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
+<a href="https://twitter.com/intent/tweet/?text=Thanks+@mdbootstrap+for+creating+amazing+and+free+Material+Design+for+Bootstrap+4+UI+KIT%20https://mdbootstrap.com/docs/jquery/&hashtags=javascript,code,webdesign,bootstrap"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Let%20us%20know%20you%20were%20here%21&"></a>
+<a href="https://www.youtube.com/watch?v=c9B4TPnak1A&t=6s"><img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/c9B4TPnak1A?label=Bootstrap%205%20Tutorial%20Views&style=social"></a>
+___
 
-<center>
-<img src="https://github.com/ximinng/GithubPages-Template/raw/main/deploy/step1.png" width="450px">
-<br>
-<img src="https://github.com/ximinng/GithubPages-Template/raw/main/deploy/step2.png" width="450px">
-<br>
-<img src="https://github.com/ximinng/GithubPages-Template/raw/main/deploy/step3.png" width="450px">
-</center>
+<table>
+  <tbody>
+    <tr>
+      <td>
+          <a href="https://mdbootstrap.com/freebies/image-full-cover/" alt="Bootstrap 5" rel="dofollow">
+          		<img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/freebies/image-full-cover/assets/featured.jpg">
+          </a>
+      </td>
+      <td>
+        <ul>
+        <li><b>Built with the free MDB5 UI Kit</b></li>
+         <li>Super simple, 1 minute implementation</li>
+         <li><b>Plain javascript (but works also with jQuery)</b></li>
+         <li>Use in your design and create amazing things</li>
+         <li><b>MIT license - free for personal & commercial use</b></li>
+          <li><b><a href="https://mdbootstrap.com/snippets/standard/mdbootstrap/2515521">Live Demo</a></b></li>
+        </ul>
+      </td>
+    </tr>
+   </tbody>
+</table>
 
-That will automatically make a webpage under
-address [GITHUB_USERNAME.github.io/REPO_NAME](GITHUB_USERNAME.github.io/REPO_NAME).
 
-## License
+___
 
-Distributed under the MIT License. See LICENSE for more information.
+###### Discover tutorials for the latest Bootstrap 5 and learn how to create templates yourself.
 
-## Acknowledgements
+**[>> Click here for a written tutorial](https://mdbootstrap.com/docs/standard/getting-started/quick-start/)**
 
-This webpage source code based on [bootstrap v5.3](https://getbootstrap.com/docs/5.3/getting-started/introduction/).
 
-## Contacts
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+          		<img src="https://mdbootstrap.com/wp-content/uploads/2020/12/learnmore-1.png">
+          </a>
+      </td>
+      <td>
+          <a href="https://mdbootstrap.com/docs/standard/bootstrap-5-tutorial/#section-beginner" alt="Bootstrap 5" rel="dofollow">
+          		<img src="https://mdbootstrap.com/wp-content/uploads/2020/12/cover-bootstrap-5-1.png">
+          </a>
+      </td>
+    </tr>
+     <tr>
+        <td align="center">
+          <p align="center"><b>Start to Code</b></p>
+          <a href="https://mdbootstrap.com/docs/standard/bootstrap-5-tutorial/#section-beginner" alt="Bootstrap 5" rel="dofollow">
+          		<img src="https://mdbootstrap.com/wp-content/uploads/2020/12/Screenshot_26.png">
+          </a>
+         </td>
+        <td align="center">
+          <p align="center"><b>Learn Bootstrap 5 | Crash Course for Beginners in 1.5H</b></p>
+          <a href="https://mdbootstrap.com/docs/standard/bootstrap-5-tutorial/#section-beginner" alt="Bootstrap 5" rel="dofollow">
+          		<img src="https://mdbootstrap.com/wp-content/uploads/2020/12/Screenshot_26.png">
+          </a>
+         </td>
+      </tr>
+   </tbody>
+</table>
 
-**Ximing Xing** - `@ximinng <https://github.com/ximinng>` - ``ximingxing@gmail.com``
+___
